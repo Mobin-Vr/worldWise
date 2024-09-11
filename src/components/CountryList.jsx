@@ -1,10 +1,11 @@
-import CityItem from './CityItem';
 import Spinner from './Spinner';
 import styles from './CountryList.module.css';
 import Message from './Message';
 import CountryItem from './CountryItem';
+import { useCities } from '../contexts/CitiesContext';
 
-function CountryList({ cities, isLoading }) {
+function CountryList() {
+   const { cities, isLoading } = useCities();
    const countries = cities.reduce((arr, cur) => {
       return !arr.find((item) => item.country === cur.country)
          ? [...arr, { country: cur.country, emoji: cur.emoji }]
