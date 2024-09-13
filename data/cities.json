@@ -13,88 +13,52 @@
       "id": 73930385
     },
     {
-      "cityName": "Tehran",
+      "cityName": "Nurabad",
       "country": "Iran (Islamic Republic of)",
       "emoji": "🇮🇷",
-      "date": "2024-09-12T19:45:43.329Z",
-      "notes": "Home",
+      "date": "2024-09-12T19:03:57.223Z",
+      "notes": "ddd",
       "position": {
-        "lat": "35.74477071571645",
-        "lng": "51.49253368377686"
+        "lat": "30.259067203213018",
+        "lng": "51.67419433593751"
       },
-      "id": 73930386
+      "id": 98443199
     },
     {
-      "cityName": "Shiraz",
+      "cityName": "Nurabad",
       "country": "Iran (Islamic Republic of)",
       "emoji": "🇮🇷",
-      "date": "2024-09-12T19:46:53.778Z",
-      "notes": "2",
+      "date": "2024-09-12T19:09:54.007Z",
+      "notes": "ttt",
       "position": {
-        "lat": "29.623636701458274",
-        "lng": "52.480959892272956"
+        "lat": "30.259067203213018",
+        "lng": "51.67419433593751"
       },
-      "id": 73930387
+      "id": 98443200
     },
     {
-      "cityName": "Shiraz",
+      "cityName": "Dehaqan",
       "country": "Iran (Islamic Republic of)",
       "emoji": "🇮🇷",
-      "date": "2024-09-12T19:47:08.312Z",
-      "notes": "Aida",
+      "date": "2024-09-12T19:11:09.963Z",
+      "notes": "ee",
       "position": {
-        "lat": "29.618758833551414",
-        "lng": "52.477462291717536"
+        "lat": "31.89180620845105",
+        "lng": "51.51541093668964"
       },
-      "id": 73930388
+      "id": 98443201
     },
     {
-      "cityName": "Tehran",
-      "country": "Iran (Islamic Republic of)",
-      "emoji": "🇮🇷",
-      "date": "2024-09-12T20:07:49.523Z",
-      "notes": "1",
+      "cityName": "Alpuente",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-13T11:51:46.271Z",
+      "notes": "",
       "position": {
-        "lat": "35.66880235386301",
-        "lng": "51.47257804870606"
+        "lat": "39.930800820752765",
+        "lng": "-1.0382080078125002"
       },
-      "id": 73930389
-    },
-    {
-      "cityName": "Tehran",
-      "country": "Iran (Islamic Republic of)",
-      "emoji": "🇮🇷",
-      "date": "2024-09-12T20:08:08.937Z",
-      "notes": "2",
-      "position": {
-        "lat": "35.66789587237085",
-        "lng": "51.463780403137214"
-      },
-      "id": 73930390
-    },
-    {
-      "cityName": "Tehran",
-      "country": "Iran (Islamic Republic of)",
-      "emoji": "🇮🇷",
-      "date": "2024-09-12T20:09:05.801Z",
-      "notes": "3",
-      "position": {
-        "lat": "35.75434873730032",
-        "lng": "51.367650032043464"
-      },
-      "id": 73930391
-    },
-    {
-      "cityName": "Tehran",
-      "country": "Iran (Islamic Republic of)",
-      "emoji": "🇮🇷",
-      "date": "2024-09-12T20:09:50.308Z",
-      "notes": "4",
-      "position": {
-        "lat": "35.748115516002294",
-        "lng": "51.573687160077505"
-      },
-      "id": 73930392
+      "id": 98443202
     }
   ]
 }
