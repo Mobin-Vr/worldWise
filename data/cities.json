@@ -13,30 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Nurabad",
-      "country": "Iran (Islamic Republic of)",
-      "emoji": "🇮🇷",
-      "date": "2024-09-12T19:03:57.223Z",
-      "notes": "ddd",
-      "position": {
-        "lat": "30.259067203213018",
-        "lng": "51.67419433593751"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Nurabad",
-      "country": "Iran (Islamic Republic of)",
-      "emoji": "🇮🇷",
-      "date": "2024-09-12T19:09:54.007Z",
-      "notes": "ttt",
-      "position": {
-        "lat": "30.259067203213018",
-        "lng": "51.67419433593751"
-      },
-      "id": 98443200
-    },
-    {
       "cityName": "Dehaqan",
       "country": "Iran (Islamic Republic of)",
       "emoji": "🇮🇷",
@@ -47,18 +23,6 @@
         "lng": "51.51541093668964"
       },
       "id": 98443201
-    },
-    {
-      "cityName": "Alpuente",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-09-13T11:51:46.271Z",
-      "notes": "",
-      "position": {
-        "lat": "39.930800820752765",
-        "lng": "-1.0382080078125002"
-      },
-      "id": 98443202
     }
   ]
 }
