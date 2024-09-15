@@ -1,8 +1,7 @@
 import { createContext, useEffect, useContext, useReducer } from 'react';
 
-const BASE_URL = 'http://localhost:8000';
-
 const CitiesContext = createContext();
+const BASE_URL = 'http://localhost:8000';
 
 const initialState = {
    cities: [],
