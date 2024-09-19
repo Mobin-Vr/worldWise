@@ -13,16 +13,28 @@
       "id": 73930385
     },
     {
-      "cityName": "Dehaqan",
+      "cityName": "Aftab District",
       "country": "Iran (Islamic Republic of)",
       "emoji": "🇮🇷",
-      "date": "2024-09-12T19:11:09.963Z",
-      "notes": "ee",
+      "date": "2024-09-19T18:23:52.622Z",
+      "notes": "",
       "position": {
-        "lat": "31.89180620845105",
-        "lng": "51.51541093668964"
+        "lat": "35.60369425530272",
+        "lng": "51.35458812804789"
       },
-      "id": 98443201
+      "id": 73930386
+    },
+    {
+      "cityName": "Na’in",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-09-19T18:24:02.419Z",
+      "notes": "",
+      "position": {
+        "lat": "32.676474800965096",
+        "lng": "52.93823731036446"
+      },
+      "id": 73930387
     }
   ]
 }
